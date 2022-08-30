@@ -159,3 +159,13 @@ body{
 		0 0 40px 100px #FFDE0010;
 	}
 }
+
+@media only screen and (max-width: 1030px) {
+    .sun {
+    /*  opacity: 10%;*/
+      top: 100px;
+      left: 200px;
+      width: 100px;
+	height: 100px;
+    }
+  }
